@@ -12,7 +12,7 @@ class Triangle { //notice that it starts with a capital letter
 	public Triangle(double s1, double s2, double s3, double a1, double a2, double a3) {
 		this.side1 = s1;
 		this.side2 = s2;
-		this.side3 = s3;
+		this.side3 = s3; 
 		this.angle1 = a1;
 		this.angle2 = a2;
 		this.angle3 = a3;
