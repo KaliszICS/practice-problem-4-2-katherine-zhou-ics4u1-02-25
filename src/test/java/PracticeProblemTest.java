@@ -3,7 +3,7 @@ import java.lang.reflect.Method;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 
-public class PracticeProblemTest {
+public class Dog {
 
 private Object createDog(String name, String breed, int weight) {
         try {
